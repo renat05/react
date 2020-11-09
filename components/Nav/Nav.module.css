@@ -1,0 +1,18 @@
+.nav{
+    grid-area: n;
+    background-color: rgb(53, 41, 32);
+}
+.item{
+    color: #fff;
+    font-family: verdana;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 18px;
+   
+}
+.item:hover{
+    cursor: pointer;
+    color: gold;
+    padding-left: 20px;
+    transition: 0.8s;
+}
